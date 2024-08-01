@@ -1,0 +1,5 @@
+/Users/rose/Documents/UnityGame/8/BingoMain/.utmp/RelWithDebInfo/4ap6j3p5/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/rose/Documents/UnityGame/8/BingoMain/.utmp/RelWithDebInfo/4ap6j3p5/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/rose/Documents/UnityGame/8/BingoMain/.utmp/RelWithDebInfo/4ap6j3p5/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+/Users/rose/Documents/UnityGame/8/BingoMain/.utmp/RelWithDebInfo/4ap6j3p5/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+/Users/rose/Documents/UnityGame/8/BingoMain/.utmp/RelWithDebInfo/4ap6j3p5/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
